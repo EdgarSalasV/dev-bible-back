@@ -1,0 +1,3 @@
+LOCAL=dev
+PORT= 4001
+URL_GENERAL=localhost
